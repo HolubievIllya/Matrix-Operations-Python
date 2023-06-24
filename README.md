@@ -1,4 +1,5 @@
-# matrix
+# Matrix-Operations-Python
+
 The code provides a collection of functions for matrix operations, including transposing, finding the rank, inverting, multiplying.
 
 ## About
